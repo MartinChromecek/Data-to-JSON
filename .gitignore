@@ -1,0 +1,6 @@
+/output_csv/*.*
+/output_csv_test
+/output_json/*.*
+/output_json_test
+old-newspaper.tsv
+append_json.py
